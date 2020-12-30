@@ -25,7 +25,8 @@ setup(
         'Programming Language :: Python :: 3.8',
     ],
     install_requires=[
-
+        "lxml",
+        "pywin32",
     ],
     entry_points={
         "console_scripts": [
